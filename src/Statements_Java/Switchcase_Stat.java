@@ -34,8 +34,7 @@ public class Switchcase_Stat {
 					System.out.println("Given letter is not a Vowel:"+letter);
 				
 				
-		
-		
+		// Test Commit
 		// TODO Auto-generated method stub
 
 	}
